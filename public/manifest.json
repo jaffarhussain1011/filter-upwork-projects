@@ -2,7 +2,7 @@
   "name": "Filter upwork projects",
   "description": "The power of React for building interactive Chrome extensions",
   "author": "Jaffar Hussain <jaffarhussain1011@gmail.com>",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html",
