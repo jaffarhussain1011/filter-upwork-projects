@@ -1,6 +1,6 @@
 {
   "name": "Filter upwork projects",
-  "description": "The power of React for building interactive Chrome extensions",
+  "description": "List down all countries from upwork jobs listing page , and filter/exclude listed projects from display based on selected countries",
   "author": "Jaffar Hussain <jaffarhussain1011@gmail.com>",
   "version": "1.1",
   "manifest_version": 3,
@@ -24,6 +24,6 @@
     "128": "logo192.png"
   },
   "permissions": [
-    "tabs"
+    "activeTab"
 ] 
 }
