@@ -1,8 +1,14 @@
-# Getting Started with Google Chrome Extension Development using Create React App
+# Getting Started with Google Chrome Extension Development using React
 
-Follow this link for [Installation](https://youtu.be/7ARwjwQO_pY).
+Follow this link to get started [Video](https://youtu.be/7ARwjwQO_pY).
+## Installation
+- Clone repository
+- cd <cloned_repo>
+- npm run build
+- load unpacked extension
+![How to Install](https://user-images.githubusercontent.com/3069478/156158247-346b76f0-322e-4c09-9933-991996c11ef9.gif)
 
-![Chrome Extension React App](https://user-images.githubusercontent.com/3069478/155498410-c4a28d46-edee-497d-b624-cf8e8613effa.gif)
+
 
 ### Latest Updates
 ![Screenshot (9)](https://user-images.githubusercontent.com/3069478/155970347-f073ab12-b74a-4abd-a92a-ff74bd7abd25.png)
